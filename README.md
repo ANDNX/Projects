@@ -60,3 +60,6 @@ http://localhost:5000
 - Pandas
 - Requests
 - BeautifulSoup4
+
+## Website
+![Screenshot 2025-04-15 215558](https://github.com/user-attachments/assets/1b3cc21c-f12c-483d-9cd1-7e60ec16c934)
